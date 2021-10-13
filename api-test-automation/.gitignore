@@ -1,0 +1,8 @@
+.idea/
+bin/
+obj/
+target/
+${project.build.directory}/
+*.iml
+*.dotSettings
+*.dotSettings.user
