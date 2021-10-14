@@ -2,6 +2,7 @@
 bin/
 obj/
 target/
+build/
 ${project.build.directory}/
 *.iml
 *.dotSettings
